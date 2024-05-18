@@ -34,6 +34,9 @@ CryptoX is a business platform for cryptocurrency trading that offers a wide var
 <br>
 !!!Attention: The platform is only a small project with a good-looking interface and cannot be used for actual cryptocurrency trading.
 
+<img alt="Demo" src="preview-one-cryptoX.png" />
+
+  
 ## 🔨 Built With
 This project was built using these technologies:
 - HTML5
@@ -52,7 +55,7 @@ This project was built using these technologies:
 
 
 ## ⚙️ Getting Started
-Visit the following link to view website: 
+Visit the following link to view website: https://kadiryazadzhi.github.io/Crypto-Website/
 
 
 ## 🙏 Show your support
