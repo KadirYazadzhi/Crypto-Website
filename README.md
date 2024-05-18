@@ -32,7 +32,7 @@
 ## 📖 Introduction
 CryptoX is a business platform for cryptocurrency trading that offers a wide variety of well-known and lesser-known currencies that you can trade with almost no fees. Our platform is designed to be user-friendly, providing fast and secure transactions so you can focus on your investments.
 <br>
-!!!Attention: The platform is only a small project with a good-looking interface and cannot be used for actual cryptocurrency trading.
+### ⚠️ !!!Attention: The platform is only a small project with a good-looking interface and cannot be used for actual cryptocurrency trading. ⚠️
 
 <img alt="Demo" src="preview-one-cryptoX.png" />
 
