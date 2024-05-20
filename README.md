@@ -51,7 +51,7 @@ This project was built using these technologies:
 
 **📱 Fully Responsive** <br>
 
-**🤑 Get current crypto price from API**
+**🤑 Get current crypto price with API**
 
 
 ## ⚙️ Getting Started
